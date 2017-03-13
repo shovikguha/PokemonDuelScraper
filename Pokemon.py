@@ -9,6 +9,3 @@ class Pokemon:
 
     def getID(self):
         return self.id
-
-
-
